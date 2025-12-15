@@ -28,7 +28,7 @@
 
 5. Le choix de la guide ne peut pas être changé sans que nous sommes considérés traitre.
 
-6. Dans le monde de la vrai vie, le jeu sera en interface pour la géstion de notre vie. Il est un jeu à la persona 5.
+6. Dans le monde de la vrai vie, le jeu sera aussi en 3D pour la géstion de notre vie. Il est un jeu à la persona 5.
 
 
 
@@ -53,7 +53,7 @@ listes essentielles :
 - Voir la mode des jeux vidéos.
 - Discutter des prix
 - casting de star (optional)
-- Faire des concept arts pour la section 2D. Le jeu dans l'interface.
+- Faire des concept arts pour la section de la vraie vie.
 - le fil de l'Histoire doit être écrit.
 - penser aux dialogues
 
@@ -63,7 +63,7 @@ listes essentielles :
 - faire une campagne d'employament
 - commencer par l'univers 3D. Modélisé les personnages, armes etc. le monde en soi.
 - après que le concept 3D a été établi, implimenter dans le jeu.
-- pour le monde d'interface dans la vie réelle, il faut crée l'interface qui ressemble à persona 5 et le menu de dark souls
+- pour la vie réelle, il faut rester dans les bases de vrai vies 
 - enregister les voix
 - faire des essaies multiples sur le bruit, l'animation et les voix.
 
